@@ -1,0 +1,23 @@
+git init  - инициализация git
+
+git config --global user.name "Vitaliy" - имя пользователя
+git config --global user.email vitaliy@example.com  - мэил пользователя
+
+git config --list
+
+/------------------------------------------------------------/
+Lesson 4
+
+git status
+
+git add .
+
+git commit -a -m"add file"
+git commit -m"add file"
+
+/-------------------------------------------------------------/
+Lesson 6
+
+git remote add origin https://github.com/Lastname/__.git
+
+git push -u origin master
